@@ -21,3 +21,5 @@ Este é um código Java que lida com autenticação de usuário em um banco de d
    - O código não fecha as conexões, os statements e os result sets após o uso. Isso pode causar vazamentos de recursos e problemas de desempenho. Certifique-se de adicionar blocos "finally" ou usar a declaração "try-with-resources" para fechar recursos corretamente.
 
 teste
+
+![ac2 ohata](https://github.com/ThallesRodriguess/teste_caixa_branca/assets/105616515/7b8590c9-e4ec-4010-b564-adfd1d06bad8)
