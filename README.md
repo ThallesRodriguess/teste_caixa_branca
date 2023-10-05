@@ -17,11 +17,11 @@ Onde:
 Substituindo os valores na fórmula:
 
 
-v(g)=(arestas-nós)+2
+- v(g)=(arestas-nós)+2
 
-v(g)=(24-22)+2
+- v(g)=(24-22)+2
 
-v(g)=4
+- v(g)=4
 
 
 Portanto, a complexidade ciclomática é igual a 4.
