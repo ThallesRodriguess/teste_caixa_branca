@@ -37,13 +37,12 @@ public class User {
 			/*14*/ResultSet rs = st.executeQuery(sql);
 			/*15*/if(rs.next()) {
 				/*16*/result = true;
-				/*16*/nome = rs.getString("nome");}
+				/*16*/nome = rs.getString("nome");}/*17*/
 		}/*18*/
 		/*19*/catch (Exception e) {}/*20*/
 		/*21*/return result;
 		}/*22*/
 }//fim da classe
-
 
 	
 
