@@ -19,3 +19,5 @@ Este é um código Java que lida com autenticação de usuário em um banco de d
 
 6. **Fechamento de Conexões**:
    - O código não fecha as conexões, os statements e os result sets após o uso. Isso pode causar vazamentos de recursos e problemas de desempenho. Certifique-se de adicionar blocos "finally" ou usar a declaração "try-with-resources" para fechar recursos corretamente.
+
+teste
