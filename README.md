@@ -16,8 +16,11 @@ Onde:
 
 Substituindo os valores na fórmula:
 
+
 v(g)=(arestas-nós)+2
+
 v(g)=(24-22)+2
+
 v(g)=4
 
 
