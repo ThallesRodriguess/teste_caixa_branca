@@ -99,6 +99,5 @@ Para usar este código, você deve ter:
 
 ## Exceções
 
-O código trata possíveis erros, como exceções durante a conexão com o banco de dados. No entanto, você pode personalizar o tratamento de exceções de acordo com suas necessidades.
-
+O código trata possíveis erros, como exceções durante a conexão com o banco de dados.
 ---
